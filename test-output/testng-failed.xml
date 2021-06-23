@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Inteletutor.testCases.Inteletutor_Tutor_Register">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethos"/>
+          <include name="setValues"/>
+          <include name="beforeSuite"/>
+          <include name="RegisterTutor" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+          <include name="aftersuite"/>
+        </methods>
+      </class> <!-- com.Inteletutor.testCases.Inteletutor_Tutor_Register -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

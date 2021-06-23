@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26396" started-at="2021-06-04T13:33:19Z" finished-at="2021-06-04T13:33:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26396" started-at="2021-06-04T13:33:19Z" finished-at="2021-06-04T13:33:45Z">
+      <class name="com.Inteletutor.testCases.Inteletutor_Tutor_Register">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="beforeSuite" is-config="true" duration-ms="234" started-at="2021-06-04T19:03:19Z" finished-at="2021-06-04T19:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="setValues" is-config="true" duration-ms="0" started-at="2021-06-04T19:03:19Z" finished-at="2021-06-04T19:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="beforeMethod" is-config="true" duration-ms="18765" started-at="2021-06-04T19:03:20Z" finished-at="2021-06-04T19:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="RegisterTutor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="RegisterTutor" duration-ms="6104" started-at="2021-06-04T19:03:38Z" data-provider="fetchData" finished-at="2021-06-04T19:03:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auto]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[autotest@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9632587410]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterTutor -->
+        <test-method status="PASS" signature="afterMethos()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="afterMethos" is-config="true" duration-ms="855" started-at="2021-06-04T19:03:44Z" finished-at="2021-06-04T19:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethos -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-06-04T19:03:45Z" finished-at="2021-06-04T19:03:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.Inteletutor.testCases.Inteletutor_Tutor_Register@63753b6d]" name="aftersuite" is-config="true" duration-ms="344" started-at="2021-06-04T19:03:45Z" finished-at="2021-06-04T19:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.Inteletutor.testCases.Inteletutor_Tutor_Register -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
